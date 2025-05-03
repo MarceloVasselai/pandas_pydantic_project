@@ -1,5 +1,5 @@
 from pandas import read_csv
-from src.models import UserData
+from models import UserData
 from pydantic import ValidationError
 
 def main():
