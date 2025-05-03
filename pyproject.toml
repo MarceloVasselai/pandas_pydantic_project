@@ -1,0 +1,18 @@
+[project]
+name = "pandas-pydantic-project"
+version = "0.1.0"
+description = "O código apresentado utiliza o Pydantic, uma biblioteca Python que facilita a validação de dados e a criação de modelos baseados em tipos."
+authors = [
+    {name = "Marcelo Vasselai",email = "mvasselai@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=2.2.3,<3.0.0)",
+    "pydantic (>=2.11.4,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
