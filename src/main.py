@@ -3,7 +3,7 @@ from models import UserData
 from pydantic import ValidationError
 
 def main():
-    # Read the CSV file
+    # Read the CSV file 
     try:
         df = read_csv('data/sample.csv')
         print("CSV data read successfully.")
