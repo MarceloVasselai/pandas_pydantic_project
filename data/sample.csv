@@ -1,7 +1,7 @@
 name,age,email,join_date,salary,is_active,department,performance_rating,bonus,city,country,phone_number,gender,marital_status,education_level,years_experience,project_count,remote_work,preferred_language,notes
 Alice,30,alice@example.com,2021-01-15,60000.50,True,Engineering,4.5,5000,New York,USA,1234567890,Female,Single,Bachelor's,5,10,True,English,Great team player
 Bob,45,bob@example.com,2019-03-22,75000.00,False,Marketing,3.8,3000,Los Angeles,USA,0987654321,Male,Married,Master's,20,5,False,Spanish,Needs improvement
-Charlie,28,charlie@example.com,2020-07-30,50000.00,True,Sales,4.0,2000,Chicago,USA,1122334455,Male,Single,Bachelor's,3,8,True,English,Excellent communicator
+Charlie,BB,charlie@example.com,2020-07-30,50000.00,True,Sales,4.0,2000,Chicago,USA,1122334455,Male,Single,Bachelor's,3,8,True,English,Excellent communicator
 Diana,35,diana@example.com,2018-11-10,80000.75,True,HR,4.2,4000,Houston,USA,2233445566,Female,Married,Master's,15,12,True,French,Great leadership skills
 Ethan,50,ethan@example.com,2015-05-05,90000.00,False,Finance,3.5,1000,Phoenix,USA,3344556677,Male,Divorced,PhD,25,3,False,English,Needs to work on teamwork
 Fiona,32,fiona@example.com,2022-02-20,55000.25,True,Engineering,4.8,6000,San Diego,USA,4455667788,Female,Single,Bachelor's,6,7,True,English,Very proactive
