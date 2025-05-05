@@ -1,11 +1,11 @@
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, EmailStr,field_validator
 from datetime import date
-from typing import Optional
+from typing import Optional, Annotated
 
 class UserData(BaseModel):
     name: str
     age: int
-    email: str
+    email: EmailStr  # Validação de e-mail
     is_active: bool
     phone_number: int
     salary: float
@@ -19,6 +19,12 @@ class UserData(BaseModel):
     country: str
     gender: str
     marital_status: str
-    project_count: int
+    project_count: Annotated[int, Field(ge=0)]  # Contagem de projetos deve ser não negativa
     preferred_language: str
     notes: str
+
+    @field_validator("notes")  # Validação do campo notes
+    def validate_notes_contains_player(cls, value):
+        if "player" not in value.lower():
+            raise ValueError("The notes field must contain the word 'player'.")
+        return value

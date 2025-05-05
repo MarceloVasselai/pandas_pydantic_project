@@ -1,21 +1,21 @@
 name,age,email,join_date,salary,is_active,department,performance_rating,bonus,city,country,phone_number,gender,marital_status,education_level,years_experience,project_count,remote_work,preferred_language,notes
 Alice,30,alice@example.com,2021-01-15,60000.50,True,Engineering,4.5,5000,New York,USA,1234567890,Female,Single,Bachelor's,5,10,True,English,Great team player
-Bob,45,bob@example.com,2019-03-dois,75000.00,False,Marketing,3.8,3000,Los Angeles,USA,0987654321,Male,Married,Master's,20,5,False,Spanish,Needs improvement
-Charlie,BB,charlie@example.com,2020-07-30,50000.00,Alberto,Sales,4.0,2000,Chicago,USA,1122334455,Male,Single,Bachelor's,3,8,True,English,Excellent communicator
-Diana,35,diana@example.com,2018-11-10,80000.75,True,HR,4.2,4000,Houston,USA,2233445566,Female,Married,Master's,15,12,True,French,Great leadership skills
-Ethan,50,ethan@example.com,2015-05-05,90000.00,False,Finance,3.5,1000,Phoenix,USA,3344556677,Male,Divorced,PhD,25,3,False,English,Needs to work on teamwork
-Fiona,32,fiona@example.com,2022-02-20,55000.25,True,Engineering,4.8,6000,San Diego,USA,4455667788,Female,Single,Bachelor's,6,7,True,English,Very proactive
-George,40,george@example.com,2017-09-15,72000.00,True,Marketing,4.0,3500,Seattle,USA,5566778899,Male,Married,Master's,18,6,False,Spanish,Good at presentations
-Hannah,29,hannah@example.com,2021-12-01,48000.00,True,Sales,4.1,1500,Denver,USA,6677889900,Female,Single,Bachelor's,4,9,True,English,Strong negotiation skills
-Ian,38,ian@example.com,2016-04-12,85000.00,False,HR,3.9,2500,Atlanta,USA,7788990011,Male,Married,Master's,22,4,False,French,Needs to improve communication
-Julia,27,julia@example.com,2020-08-25,52000.50,True,Finance,4.3,3000,Boston,USA,8899001122,Female,Single,Bachelor's,5,11,True,English,Excellent analytical skills
-Kevin,42,kevin@example.com,2014-10-30,95000.00,True,Engineering,4.6,7000,Miami,USA,9900112233,Male,Divorced,PhD,30,2,False,Spanish,Great problem solver
-Laura,31,laura@example.com,2019-06-18,62000.00,True,Marketing,4.4,4000,Orlando,USA,1011121314,Female,Married,Master's,10,5,True,English,Creative thinker
-Mike,36,mike@example.com,2018-01-05,78000.00,False,Sales,3.7,2000,Las Vegas,USA,1213141516,Male,Single,Bachelor's,16,8,False,English,Needs to work on time management
-Nina,34,nina@example.com,2021-03-30,59000.00,True,HR,4.2,3500,Portland,USA,1314151617,Female,Married,Master's,12,6,True,French,Excellent at conflict resolution
-Oscar,39,oscar@example.com,2017-11-11,71000.00,True,Finance,4.0,3000,San Francisco,USA,1415161718,Male,Divorced,PhD,20,4,False,Spanish,Strong financial acumen
-Paula,26,paula@example.com,2022-05-15,47000.00,True,Engineering,4.5,2500,Philadelphia,USA,1516171819,Female,Single,Bachelor's,3,9,True,English,Quick learner
-Quentin,48,quentin@example.com,2015-02-28,88000.00,False,Marketing,3.6,1500,Detroit,USA,1617181920,Male,Married,Master's,25,3,False,French,Needs to adapt to new trends
-Rachel,30,rachel@example.com,2020-09-09,53000.00,True,Sales,4.1,1800,Minneapolis,USA,1718192021,Female,Single,Bachelor's,5,7,True,English,Great customer service skills
+Bob,45,bob@example.com,2019-03-dois,75000.00,False,Marketing,3.8,3000,Los Angeles,USA,0987654321,Male,Married,Master's,20,5,False,Spanish,Needs improvement player
+Charlie,BB,charlie@example.com,2020-07-30,50000.00,Alberto,Sales,4.0,2000,Chicago,USA,1122334455,Male,Single,Bachelor's,3,8,True,English,Excellent player communicator
+Diana,35,diana@example.com,2018-11-10,80000.75,True,HR,4.2,4000,Houston,USA,2233445566,Female,Married,Master's,15,12,True,French,Great player leadership skills
+Ethan,50,ethan@example.com,2015-05-05,90000.00,False,Finance,3.5,1000,Phoenix,USA,3344556677,Male,Divorced,PhD,25,3,False,English,Needs to work on player teamwork
+Fiona,32,fionaexample.com,2022-02-20,55000.25,True,Engineering,4.8,6000,San Diego,USA,4455667788,Female,Single,Bachelor's,6,7,True,English,Very player proactive
+George,40,george@example,2017-09-15,72000.00,True,Marketing,4.0,3500,Seattle,USA,5566778899,Male,Married,Master's,18,6,False,Spanish,Good at player presentations
+Hannah,29,hannah@example.com,2021-12-01,48000.00,True,Sales,4.1,1500,Denver,USA,6677889900,Female,Single,Bachelor's,4,9,True,English,Strong negotiation player skills
+Ian,38,ian@example.com,2016-04-12,85000.00,False,HR,3.9,2500,Atlanta,USA,7788990011,Male,Married,Master's,22,4,False,French,Needs to improve communication player
+Julia,27,julia@example.com,2020-08-25,52000.50,True,Finance,4.3,3000,Boston,USA,8899001122,Female,Single,Bachelor's,5,11,True,English,Excellent analytical skills playe
+Kevin,42,kevin@example.com,2014-10-30,95000.00,True,Engineering,4.6,7000,Miami,USA,9900112233,Male,Divorced,PhD,30,2,False,Spanish,Great problem player solver
+Laura,31,laura@example.com,2019-06-18,62000.00,True,Marketing,4.4,4000,Orlando,USA,1011121314,Female,Married,Master's,10,-5,True,English,Creative player thinker
+Mike,36,mike@example.com,2018-01-05,78000.00,False,Sales,3.7,2000,Las Vegas,USA,1213141516,Male,Single,Bachelor's,16,8,False,English,Needs player to work on time management
+Nina,34,nina@example.com,2021-03-30,59000.00,True,HR,4.2,3500,Portland,USA,1314151617,Female,Married,Master's,12,6,True,French,Excellent at conflict layer resolution
+Oscar,39,oscar@example.com,2017-11-11,71000.00,True,Finance,4.0,3000,San Francisco,USA,1415161718,Male,Divorced,PhD,20,4,False,Spanish,Strong financial player acumen
+Paula,26,paula@example.com,2022-05-15,47000.00,True,Engineering,4.5,2500,Philadelphia,USA,1516171819,Female,Single,Bachelor's,3,9,True,English,Quick player learner
+Quentin,48,quentin@example.com,2015-02-28,88000.00,False,Marketing,3.6,1500,Detroit,USA,1617181920,Male,Married,Master's,25,3,False,French,Needs to adapt player to new trends
+Rachel,30,rachel@example.com,2020-09-09,53000.00,True,Sales,4.1,1800,Minneapolis,USA,1718192021,Female,Single,Bachelor's,5,7,True,English,Great customer player service skills
 Steve,37,steve@example.com,2016-06-06,64000.00,True,HR,4.3,3200,New Orleans,USA,1819202122,Male,Married,Master's,15,5,False,Spanish,Excellent team player
-Tina,29,tina@example.com,2021-04-04,49000.00,True,Finance,4.0,2000,Atlanta,USA,1920212223,Female,Single,Bachelor's,4,8,True,English,Strong attention to detail
+Tina,29,tina@example.com,2021-04-04,49000.00,True,Finance,4.0,2000,Atlanta,USA,1920212223,Female,Single,Bachelor's,4,8,True,English,Strong attention player to detail
